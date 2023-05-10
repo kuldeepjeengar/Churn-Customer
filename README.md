@@ -1,4 +1,4 @@
-#Churn Customer Prediction with Random Forest and SVM
+# Churn Customer Prediction with Random Forest and SVM
 
 This repository contains code and resources for predicting churn customers using the Random Forest and Support Vector Machines (SVM) algorithms. Additionally, the churn prediction model has been deployed on Streamlit for easy interaction and visualization.
 
